@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Animation Studio</string>
+    <string name="title_home">Home</string>
+    <string name="title_film">Film</string>
+    <string name="title_about">About</string>
+    <string name="animation_name">Nama Film</string>
+    <string name="animation_date">Tanggal Rilis</string>
+    <string name="animation_director">Director</string>
+    <string name="rating">Rating</string>
+    <string name="description">Deksripsi</string>
+</resources>
